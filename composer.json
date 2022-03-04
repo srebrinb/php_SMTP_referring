@@ -1,5 +1,6 @@
 {
     "require": {
-        "php-mime-mail-parser/php-mime-mail-parser": "^7.0"
+        "php-mime-mail-parser/php-mime-mail-parser": "^7.0",
+        "ext-pdo_sqlite": "*"
     }
 }
